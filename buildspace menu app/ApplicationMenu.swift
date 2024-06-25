@@ -17,7 +17,7 @@ class ApplicationMenu: NSObject, NSMenuDelegate {
   var houseMenuItem: NSMenuItem!
   var customLinksDropdown: NSMenu!
 
-  let houses = ["💋 spectreseek", "🌀 alterok", "🌙 guadmire", "🌿 erevald", "unset"]
+  let houses = ["💋 spectreseek", "🌀 alterok", "🌙 gaudmire", "🌿 erevald", "unset"]
 
   let links = [
     "built by Tomo Myrman": "https://github.com/neontomo"

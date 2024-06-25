@@ -6,7 +6,7 @@ struct SplashView: View {
   let backgroundImages = [
     "💋 spectreseek": "spectreseek",
     "🌀 alterok": "alterok",
-    "🌙 guadmire": "guadmire",
+    "🌙 gaudmire": "gaudmire",
     "🌿 erevald": "erevald",
   ]
 

@@ -12,7 +12,7 @@ not available yet! but coming soon.
 
 ## features
 
-- **house selection**: choose your house from the options of "💋 spectreseek", "🌀 alterok", "🌙 guadmire", "🌿 erevald". your selection is stored locally on your device and not shared with me.
+- **house selection**: choose your house from the options of "💋 spectreseek", "🌀 alterok", "🌙 gaudmire", "🌿 erevald". your selection is stored locally on your device and not shared with me.
 
 - **custom links**: set up to five custom links for quick access to your most frequently visited pages. these are also stored locally.
 
